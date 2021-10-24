@@ -1962,9 +1962,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@secretemate/sapphire-ui":
+"@pancakeswap-libs/uikit@mrposeidonx/ftm-uikit":
   version "1.1.7"
-  resolved "https://codeload.github.com/secretemate/sapphire-ui/tar.gz/a050d769df6134be5d5a6123b80c1f913561dbc9"
+  resolved "https://codeload.github.com/mrposeidonx/ftm-uikit/tar.gz/1b5e06da3fd0afa7425fa0176410d747c3400249"
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"

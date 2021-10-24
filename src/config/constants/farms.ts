@@ -125,86 +125,86 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
     tokenDecimals: 18,
   },
-  {
-    pid: 14,
-    risk: 5,
-    isTokenOnly: true,
-    lpSymbol: 'OLIVE',
-	otherExchange: 'Partner',
+  // {
+  //   pid: 14,
+  //   risk: 5,
+  //   isTokenOnly: true,
+  //   lpSymbol: 'OLIVE',
+	// otherExchange: 'Partner',
 	
-    lpAddresses: {
-      97: '',
-      250: '0xf1d412010eda1bbf09a2bcc938bc8d9ebbdc5889', // WITCHER-BUSD LP
-    },
-    tokenSymbol: 'OLIVE',
-    tokenAddresses: {
-      97: '',
-      250: '0xA9937092c4E2B0277C16802Cc8778D252854688A',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-    tokenDecimals: 18,
-  },
-  {
-    pid: 15,
-    risk: 5,
-    isTokenOnly: true,
-    lpSymbol: 'KAVIAN',
-	otherExchange: 'Partner',
+  //   lpAddresses: {
+  //     97: '',
+  //     250: '0xf1d412010eda1bbf09a2bcc938bc8d9ebbdc5889', // WITCHER-BUSD LP
+  //   },
+  //   tokenSymbol: 'OLIVE',
+  //   tokenAddresses: {
+  //     97: '',
+  //     250: '0xA9937092c4E2B0277C16802Cc8778D252854688A',
+  //   },
+  //   quoteTokenSymbol: QuoteToken.BUSD,
+  //   quoteTokenAdresses: contracts.busd,
+  //   tokenDecimals: 18,
+  // },
+  // {
+  //   pid: 15,
+  //   risk: 5,
+  //   isTokenOnly: true,
+  //   lpSymbol: 'KAVIAN',
+	// otherExchange: 'Partner',
 	
-    lpAddresses: {
-      97: '',
-      250: '0x08997806467F6a6fC7F1e506D6fC51Cb00C1D0b9', // WITCHER-BUSD LP
-    },
-    tokenSymbol: 'KAVIAN',
-    tokenAddresses: {
-      97: '',
-      250: '0x16a9aaee145f288673a0a8a8c5c224708a5284b4',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-    tokenDecimals: 18,
-  },
-  {
-    pid: 16,
-    risk: 5,
-    isTokenOnly: true,
-    lpSymbol: 'KINS',
-	otherExchange: 'Partner',
+  //   lpAddresses: {
+  //     97: '',
+  //     250: '0x08997806467F6a6fC7F1e506D6fC51Cb00C1D0b9', // WITCHER-BUSD LP
+  //   },
+  //   tokenSymbol: 'KAVIAN',
+  //   tokenAddresses: {
+  //     97: '',
+  //     250: '0x16a9aaee145f288673a0a8a8c5c224708a5284b4',
+  //   },
+  //   quoteTokenSymbol: QuoteToken.BUSD,
+  //   quoteTokenAdresses: contracts.busd,
+  //   tokenDecimals: 18,
+  // },
+  // {
+  //   pid: 16,
+  //   risk: 5,
+  //   isTokenOnly: true,
+  //   lpSymbol: 'KINS',
+	// otherExchange: 'Partner',
 	
-    lpAddresses: {
-      97: '',
-      250: '0x27A2c9CF757424142d262fc6A736C69aF62F1159', // WITCHER-BUSD LP
-    },
-    tokenSymbol: 'KINS',
-    tokenAddresses: {
-      97: '',
-      250: '0x6ECED8E16eDA61E65292f019B165542A5906ecD6',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-    tokenDecimals: 18,
-  },
-  {
-    pid: 17,
-    risk: 5,
-    isTokenOnly: true,
-    lpSymbol: 'COUGAR',
-	otherExchange: 'Partner',
+  //   lpAddresses: {
+  //     97: '',
+  //     250: '0x27A2c9CF757424142d262fc6A736C69aF62F1159', // WITCHER-BUSD LP
+  //   },
+  //   tokenSymbol: 'KINS',
+  //   tokenAddresses: {
+  //     97: '',
+  //     250: '0x6ECED8E16eDA61E65292f019B165542A5906ecD6',
+  //   },
+  //   quoteTokenSymbol: QuoteToken.BUSD,
+  //   quoteTokenAdresses: contracts.busd,
+  //   tokenDecimals: 18,
+  // },
+  // {
+  //   pid: 17,
+  //   risk: 5,
+  //   isTokenOnly: true,
+  //   lpSymbol: 'COUGAR',
+	// otherExchange: 'Partner',
 	
-    lpAddresses: {
-      97: '',
-      250: '0x2b5965f901f8817da4d660c64051ba8adcdc495e', // WITCHER-BUSD LP
-    },
-    tokenSymbol: 'COUGAR',
-    tokenAddresses: {
-      97: '',
-      250: '0x5a2e451Fb1b46FDE7718315661013ae1aE68e28C',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-    tokenDecimals: 18,
-  },
+  //   lpAddresses: {
+  //     97: '',
+  //     250: '0x2b5965f901f8817da4d660c64051ba8adcdc495e', // WITCHER-BUSD LP
+  //   },
+  //   tokenSymbol: 'COUGAR',
+  //   tokenAddresses: {
+  //     97: '',
+  //     250: '0x5a2e451Fb1b46FDE7718315661013ae1aE68e28C',
+  //   },
+  //   quoteTokenSymbol: QuoteToken.BUSD,
+  //   quoteTokenAdresses: contracts.busd,
+  //   tokenDecimals: 18,
+  // },
   {
     pid: 6,
     risk: 3,
@@ -290,40 +290,40 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
     tokenDecimals: 18,
   },
-  {
-    pid: 11,
-    risk: 3,
-    isTokenOnly: true,
-    lpSymbol: 'FUSDT',
+  // {
+  //   pid: 11,
+  //   risk: 3,
+  //   isTokenOnly: true,
+  //   lpSymbol: 'FUSDT',
 	
-    lpAddresses: {
-      250: '0xfdef392adc84607135c24ca45de5452d77aa10de',
-    },
-    tokenSymbol: 'FUSDT',
-    tokenAddresses: {
-      250: '0x049d68029688eAbF473097a2fC38ef61633A3C7A',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-    tokenDecimals: 6,
-  },
-  {
-    pid: 12,
-    risk: 3,
-    isTokenOnly: true,
-    lpSymbol: 'WBNB',
+  //   lpAddresses: {
+  //     250: '0xfdef392adc84607135c24ca45de5452d77aa10de',
+  //   },
+  //   tokenSymbol: 'FUSDT',
+  //   tokenAddresses: {
+  //     250: '0x049d68029688eAbF473097a2fC38ef61633A3C7A',
+  //   },
+  //   quoteTokenSymbol: QuoteToken.BUSD,
+  //   quoteTokenAdresses: contracts.busd,
+  //   tokenDecimals: 6,
+  // },
+  // {
+  //   pid: 12,
+  //   risk: 3,
+  //   isTokenOnly: true,
+  //   lpSymbol: 'WBNB',
 	
-    lpAddresses: {
-      250: '0x30409563050c718fd083b646d8a07420e789cdb4',
-    },
-    tokenSymbol: 'WBNB',
-    tokenAddresses: {
-      250: '0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454',
-    },
-    quoteTokenSymbol: QuoteToken.BUSD,
-    quoteTokenAdresses: contracts.busd,
-    tokenDecimals: 8,
-  },
+  //   lpAddresses: {
+  //     250: '0x30409563050c718fd083b646d8a07420e789cdb4',
+  //   },
+  //   tokenSymbol: 'WBNB',
+  //   tokenAddresses: {
+  //     250: '0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454',
+  //   },
+  //   quoteTokenSymbol: QuoteToken.BUSD,
+  //   quoteTokenAdresses: contracts.busd,
+  //   tokenDecimals: 8,
+  // },
   {
     pid: 13,
     risk: 3,

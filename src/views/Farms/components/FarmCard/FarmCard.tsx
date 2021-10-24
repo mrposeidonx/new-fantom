@@ -30,12 +30,12 @@ const RainbowLight = keyframes`
 `
 
 const StyledCardAccent = styled.div`
-  background: rgb(62,226,155);
-background: -moz-linear-gradient(72deg, rgba(62,226,155,1) 14%, rgba(170,213,164,1) 72%, rgba(77,153,100,1) 96%);
-background: -webkit-linear-gradient(72deg, rgba(62,226,155,1) 14%, rgba(170,213,164,1) 72%, rgba(77,153,100,1) 96%);
-background: linear-gradient(72deg, rgba(62,226,155,1) 14%, rgba(170,213,164,1) 72%, rgba(77,153,100,1) 96%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3ee29b",endColorstr="#4d9964",GradientType=1);
-  border-radius: 16px;
+  background: rgb(230,230,250);
+background: -moz-linear-gradient(72deg, rgba(159, 90, 253, 1) 14%, rgba(213, 184, 255, 1) 72%, rgba(102, 51, 153, 1) 96%);
+background: -webkit-linear-gradient(72deg, rgba(159, 90, 253, 1) 14%, rgba(213, 184, 255, 1) 72%, rgba(102, 51, 153, 1) 96%);
+background: linear-gradient(72deg, rgba(159, 90, 253, 1) 14%, rgba(213, 184, 255, 1) 72%, rgba(102, 51, 153, 1) 96%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FF00FF",endColorstr="#E6E6FA",GradientType=1);
+  border-radius: 16x;
   filter: blur(6px);
   position: absolute;
   top: 0px;

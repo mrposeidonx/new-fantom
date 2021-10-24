@@ -36,11 +36,11 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     href: 'https://kek.tools/t/0xfa7d8c3CccC90c07c53feE45A7a333CEC40B441B',
   },
-  {
-    label: 'Buy Witcher',
-    icon: 'IfoIcon',
-    href: 'https://spookyswap.finance/swap?outputCurrency=0xfa7d8c3CccC90c07c53feE45A7a333CEC40B441B',
-  },
+  // {
+  //   label: 'Buy Witcher',
+  //   icon: 'IfoIcon',
+  //   href: 'https://spookyswap.finance/swap?outputCurrency=0xfa7d8c3CccC90c07c53feE45A7a333CEC40B441B',
+  // },
   // {
   //   label: 'Pools',
   //   icon: 'PoolIcon',
@@ -59,12 +59,12 @@ const config: MenuEntry[] = [
   {
     label: 'Documentation',
     icon: 'MoreIcon',
-    href: 'https://defisapphire.gitbook.io/sapphire-defi/',
+    href: 'https://witcherdefi.gitbook.io/witcher-defi/',
   },
   {
     label: 'Metamask Bridge',
     icon: 'NftIcon',
-    href: 'https://defisapphire.gitbook.io/sapphire-defi/bridge/metamask',
+    href: 'https://witcherdefi.gitbook.io/witcher-defi/bridge/metamask',
   },
 ]
 

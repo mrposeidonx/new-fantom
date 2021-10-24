@@ -34,7 +34,7 @@ const Hero = styled.div`
   margin-bottom: 32px;
   padding-top: 116px;
   text-align: center;
-  background-image: linear-gradient(180deg, #314540 0%, #0e0e2c1a 100%);
+  background-image: linear-gradient(180deg, #dad2ec 0%, #0e0e2c1a 100%);
 
   ${({ theme }) => theme.mediaQueries.lg} {
     height: 165px;

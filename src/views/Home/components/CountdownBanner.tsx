@@ -32,8 +32,8 @@ const CountdownBanner = () => (
     <Container>
       <Countdown>
         Farming opens on block{' '}
-        <a href="https://ftmscan.com/block/countdown/20299479" style={{ color: '#88bbdb' }}>
-        20299479
+        <a href="https://ftmscan.com/block/countdown/20422525" style={{ color: '#88bbdb' }}>
+        20422525
         </a>
         .
       </Countdown>
