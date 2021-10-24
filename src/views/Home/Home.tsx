@@ -13,6 +13,7 @@ import EarnCard from './components/EarnCard'
 import CountdownBanner from './components/CountdownBanner'
 import BuyCard from './components/BuyCard'
 import Timer from './components/Timer'
+import AuditCard from './components/AuditCard'
 
 
 const Hero = styled.div`
@@ -34,7 +35,16 @@ const Hero = styled.div`
     padding-top: 0;
   }
 `
+const SecondRow = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 
+  @media (max-width: 400px) {
+    display: flex;
+    flex-direction: column;
+  }
+`
 
 const Cards = styled(BaseLayout)`
   align-items: stretch;
@@ -81,7 +91,13 @@ const CTACards = styled(BaseLayout)`
     }
   }
 `
-
+const PageContainer = styled(Page)`
+  width: 100%;
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 20px;
+`
 
 const Home: React.FC = () => {
   const TranslateString = useI18n()
@@ -90,10 +106,11 @@ const Home: React.FC = () => {
   return (
     <>
       <CountdownBanner />
-      <Page>
+      <PageContainer>
         <Hero>
           <Heading as="h1" size="xxl" color="#FFF">
             {TranslateString(578, 'Witcher DeFi')}
+            
           </Heading>
           <CTACards>
           <EarnCard />
@@ -109,7 +126,7 @@ const Home: React.FC = () => {
           <CakeStats />
           <TotalValueLockedCard />
         </Cards>
-      </Page>
+      </PageContainer>
     </>
   )
 }
