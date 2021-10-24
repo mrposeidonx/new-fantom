@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total SAPPHIRE burned since launch"
+        "text": "Total WITCHER burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn SAPPHIRE"
+        "text": "Stake LP tokens to earn WITCHER"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake SAPPHIRE, get SYRUP."
+        "text": "Stake WITCHER, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake SAPPHIRE tokens, the contract will automatically harvest SAPPHIRE rewards for you!"
+        "text": "Every time you stake and unstake WITCHER tokens, the contract will automatically harvest WITCHER rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "SAPPHIRE price"
+        "text": "WITCHER price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 SAPPHIRE = 1 SYRUP"
+        "text": "1 WITCHER = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of SAPPHIRE block emissions each day (10 SAPPHIRE per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of WITCHER block emissions each day (10 WITCHER per block), Rewards are distributed each block."
       }
     },
     {
@@ -357,13 +357,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% SAPPHIRE"
+        "text": "%num% WITCHER"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend SAPPHIRE to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend WITCHER to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -441,19 +441,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% SAPPHIRE Available"
+        "text": "%num% WITCHER Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 SAPPHIRE"
+        "text": "Your amount must be a multiple of 10 WITCHER"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 SAPPHIRE"
+        "text": "1 Ticket = 10 WITCHER"
       }
     },
     {
@@ -501,7 +501,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your SAPPHIRE cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your WITCHER cannot be returned to you after buying tickets."
       }
     },
     {
@@ -513,7 +513,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "SAPPHIRE prizes to be claimed"
+        "text": "WITCHER prizes to be claimed"
       }
     },
     {
@@ -549,13 +549,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve SAPPHIRE"
+        "text": "Approve WITCHER"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of SAPPHIRE block emissions each day (10 SAPPHIRE per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of WITCHER block emissions each day (10 WITCHER per block), Rewards are distributed each block."
       }
     },
     {
@@ -573,19 +573,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using SAPPHIRE-BNB LP tokens, which means you need to stake equal amounts of SAPPHIRE and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using WITCHER-BNB LP tokens, which means you need to stake equal amounts of WITCHER and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get SAPPHIRE-BNB LP >"
+        "text": "Get WITCHER-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Goose Finance burns the SAPPHIRE."
+        "text": "The project gets the BNB, Goose Finance burns the WITCHER."
       }
     },
     {
@@ -651,7 +651,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "SAPPHIRE Stats"
+        "text": "WITCHER Stats"
       }
     },
     {
@@ -675,7 +675,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New SAPPHIRE\/block"
+        "text": "New WITCHER\/block"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 544,
-        "text": "SAPPHIRE to Harvest"
+        "text": "WITCHER to Harvest"
       }
     },
     {
@@ -711,13 +711,13 @@
     {
       "data": {
         "stringId": 546,
-        "text": "SAPPHIRE in Wallet"
+        "text": "WITCHER in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting SAPPHIRE"
+        "text": "Collecting WITCHER"
       }
     },
     {
@@ -729,7 +729,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "SAPPHIRE to Collect"
+        "text": "WITCHER to Collect"
       }
     },
     {
@@ -783,19 +783,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "SAPPHIRE"
+        "text": "WITCHER"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "SAPPHIRESwap the new center of the DeFi on #Fantom"
+        "text": "Witcher DeFi #Fantom"
       }
     },
     {
       "data": {
         "stringId": 580,
-        "text": "Stake SAPPHIRE to earn new tokens."
+        "text": "Stake WITCHER to earn new tokens."
       }
     },
     {
@@ -813,7 +813,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "SAPPHIRE to burn (USD)"
+        "text": "WITCHER to burn (USD)"
       }
     },
     {
@@ -825,7 +825,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest SAPPHIRE rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest WITCHER rewards for you!"
       }
     },
     {
@@ -843,13 +843,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy SAPPHIRE and BNB tokens"
+        "text": "Buy WITCHER and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get SAPPHIRE-BNB LP tokens by adding SAPPHIRE and BNB liquidity"
+        "text": "Get WITCHER-BNB LP tokens by adding WITCHER and BNB liquidity"
       }
     },
     {
@@ -861,7 +861,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your SAPPHIRE-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your WITCHER-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -897,7 +897,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for SAPPHIRE, or keep for your collection!"
+        "text": "Trade in for WITCHER, or keep for your collection!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive SAPPHIRE, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive WITCHER, you will lose access to it forever!"
       }
     },
     {
@@ -969,7 +969,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a SAPPHIRE value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a WITCHER value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -1011,7 +1011,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for SAPPHIRE"
+        "text": "Trade in for WITCHER"
       }
     },
     {
@@ -1137,7 +1137,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn SAPPHIRE"
+        "text": "Stake LP tokens to earn WITCHER"
       }
     },
     {
@@ -1179,13 +1179,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The SAPPHIRE Lottery"
+        "text": "The WITCHER Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with SAPPHIRE"
+        "text": "Buy tickets with WITCHER"
       }
     },
     {
@@ -1251,13 +1251,13 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn SAPPHIRE"
+        "text": "Stake tokens to earn WITCHER"
       }
     },
     {
       "data": {
         "stringId": 998,
-        "text": "Stake SAPPHIRE to earn other tokens, decided by our community."
+        "text": "Stake WITCHER to earn other tokens, decided by our community."
       }
     },
     {

@@ -40,7 +40,7 @@ const Coming: React.FC = () => {
         <CardTitle>Community Pools</CardTitle>
         <Image src="/images/egg/9.png" width={64} height={64} alt="Dividends" />
         <br />
-        <Label>Rewarding SAPPHIRE holders.</Label>
+        <Label>Rewarding WITCHER holders.</Label>
         <Button variant="secondary" mb="16px">
           <span style={{fontSize: 'x-large'}}>$2000</span> of DAI to be earned
         </Button>

@@ -7,10 +7,10 @@ import farms from 'config/constants/farms'
 import { Farm } from 'state/types'
 // import { useTranslation } from 'contexts/Localization'
 
-const activeNonCakePools = farms.filter((farm) => !farm.lpSymbol.includes('SAPPHIRE'))
+const activeNonCakePools = farms.filter((farm) => !farm.lpSymbol.includes('WITCHER'))
 const latestPools: Farm[] = orderBy(activeNonCakePools, ['sortOrder', 'pid'], ['desc', 'desc']).slice(0, 3)
-// Always include SAPPHIRE
-const assets = ['SAPPHIRE', ...latestPools.map((farm) => farm.lpSymbol)].join(', ')
+// Always include WITCHER
+const assets = ['WITCHER', ...latestPools.map((farm) => farm.lpSymbol)].join(', ')
 
 const StakeAssetCard = () => {
   // const { t } = useTranslation()
@@ -24,7 +24,7 @@ const StakeAssetCard = () => {
           Stake
         </Subtitle>
         <Title color='#FFFFFF'>
-        SAPPHIRE, WFTM, WETH...
+        WITCHER, WFTM, WETH...
         </Title>
         <Subtitle color="#FFFFFF">
           In Pools

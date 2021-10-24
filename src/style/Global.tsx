@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     background-color: ${({ theme }) => theme.colors.background};
-	background-image: url('images/egg/background.jpg');
+	background-image: url('images/egg/background.jpeg');
 
     img {
       height: auto;

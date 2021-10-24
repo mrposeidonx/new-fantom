@@ -117,7 +117,7 @@ const FarmedStakingCard = () => {
             type: 'ERC20',
             options: {
               address: token,
-              symbol: 'SAPPHIRE',
+              symbol: 'WITCHER',
               decimals: '18',
               image: 'https://sapphiredefi.com/images/egg/2.png',
             },
@@ -139,7 +139,7 @@ const FarmedStakingCard = () => {
         <Heading size="xl" mb="24px" color="#FFFFFF">
           {TranslateString(542, 'Farms & Staking')}
         </Heading>
-        <CardImage src="/images/egg/2.png" alt="cake logo" width={64} height={64} />
+        <CardImage src="/images/egg/2.png" alt="cake logo" width={84} height={84} />
 		<Actions>
           {account ? (
             <Button
@@ -156,18 +156,18 @@ const FarmedStakingCard = () => {
           )}
         </Actions>
         <Block>
-          <Label>{TranslateString(544, 'SAPPHIRE to Harvest')}</Label>
+          <Label>{TranslateString(544, 'WITCHER to Harvest')}</Label>
           <CakeHarvestBalance earningsSum={earningsSum}/>
           <Label>~${(eggPrice * earningsSum).toFixed(2)}</Label>
         </Block>
         <Block>
-          <Label>{TranslateString(546, 'SAPPHIRE in Wallet')}</Label>
+          <Label>{TranslateString(546, 'WITCHER in Wallet')}</Label>
           <CakeWalletBalance cakeBalance={cakeBalance} />
           <Label>~${(eggPrice * cakeBalance).toFixed(2)}</Label>
         </Block>
         <Actions>
 		<Button onClick={addWatchJaguarToken} size="sm" style={{ marginBottom: 0 }} mb={2}>
-            + Add SAPPHIRE to <img style={{ marginLeft: 8 }} width={16} src="https://jaguarswap.com/images/tokens/metamask.png" alt="metamask logo" />
+            + Add WITCHER to <img style={{ marginLeft: 8 }} width={16} src="https://jaguarswap.com/images/tokens/metamask.png" alt="metamask logo" />
           </Button>
           {/* {account ? (
             <Button
@@ -177,7 +177,7 @@ const FarmedStakingCard = () => {
               fullWidth
             >
               {pendingTx
-                ? TranslateString(548, 'Collecting SAPPHIRE')
+                ? TranslateString(548, 'Collecting WITCHER')
                 : TranslateString(999, `Harvest all (${balancesWithValue.length})`)}
             </Button>
           ) : (

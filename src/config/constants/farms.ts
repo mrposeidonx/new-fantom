@@ -5,13 +5,13 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'SAPPHIRE-WFTM LP',
+    lpSymbol: 'WITCHER-WFTM LP',
 	
     lpAddresses: {
       97: '',
       250: '0xC0BFf8416E83E410c38B859Ac92a3268DaDc5494',
     },
-    tokenSymbol: 'SAPPHIRE',
+    tokenSymbol: 'WITCHER',
     tokenAddresses: {
       97: '',
       250: '0xfa7d8c3CccC90c07c53feE45A7a333CEC40B441B',
@@ -110,13 +110,13 @@ const farms: FarmConfig[] = [
     pid: 5,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'SAPPHIRE',
+    lpSymbol: 'WITCHER',
 	
     lpAddresses: {
       97: '',
-      250: '0xC0BFf8416E83E410c38B859Ac92a3268DaDc5494', // SAPPHIRE-BUSD LP
+      250: '0xC0BFf8416E83E410c38B859Ac92a3268DaDc5494', // WITCHER-BUSD LP
     },
-    tokenSymbol: 'SAPPHIRE',
+    tokenSymbol: 'WITCHER',
     tokenAddresses: {
       97: '',
       250: '0xfa7d8c3CccC90c07c53feE45A7a333CEC40B441B',
@@ -134,7 +134,7 @@ const farms: FarmConfig[] = [
 	
     lpAddresses: {
       97: '',
-      250: '0xf1d412010eda1bbf09a2bcc938bc8d9ebbdc5889', // SAPPHIRE-BUSD LP
+      250: '0xf1d412010eda1bbf09a2bcc938bc8d9ebbdc5889', // WITCHER-BUSD LP
     },
     tokenSymbol: 'OLIVE',
     tokenAddresses: {
@@ -154,7 +154,7 @@ const farms: FarmConfig[] = [
 	
     lpAddresses: {
       97: '',
-      250: '0x08997806467F6a6fC7F1e506D6fC51Cb00C1D0b9', // SAPPHIRE-BUSD LP
+      250: '0x08997806467F6a6fC7F1e506D6fC51Cb00C1D0b9', // WITCHER-BUSD LP
     },
     tokenSymbol: 'KAVIAN',
     tokenAddresses: {
@@ -174,7 +174,7 @@ const farms: FarmConfig[] = [
 	
     lpAddresses: {
       97: '',
-      250: '0x27A2c9CF757424142d262fc6A736C69aF62F1159', // SAPPHIRE-BUSD LP
+      250: '0x27A2c9CF757424142d262fc6A736C69aF62F1159', // WITCHER-BUSD LP
     },
     tokenSymbol: 'KINS',
     tokenAddresses: {
@@ -194,7 +194,7 @@ const farms: FarmConfig[] = [
 	
     lpAddresses: {
       97: '',
-      250: '0x2b5965f901f8817da4d660c64051ba8adcdc495e', // SAPPHIRE-BUSD LP
+      250: '0x2b5965f901f8817da4d660c64051ba8adcdc495e', // WITCHER-BUSD LP
     },
     tokenSymbol: 'COUGAR',
     tokenAddresses: {

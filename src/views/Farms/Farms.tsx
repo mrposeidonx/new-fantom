@@ -134,7 +134,7 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
         {tokenMode ? TranslateString(999, 'Pools') : TranslateString(999, 'Farms')}
         </Heading>
         <Heading size="lg" color="text" style={{ opacity: '1000', color: "white" }}>
-        {tokenMode ? TranslateString(999, 'Stake tokens to earn SAPPHIRE!') : TranslateString(999, 'Stake Liquidity Pool (LP) tokens to earn SAPPHIRE!')}
+        {tokenMode ? TranslateString(999, 'Stake tokens to earn WITCHER!') : TranslateString(999, 'Stake Liquidity Pool (LP) tokens to earn WITCHER!')}
         </Heading>
       </Header>
       </Hero>

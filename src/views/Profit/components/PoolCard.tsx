@@ -140,7 +140,7 @@ const PoolCard: React.FC<HarvestProps> = ({ pool }) => {
   return (
 
     <Card isActive={isCardActive} isFinished={isFinished && sousId !== 0}>
-      {pool.stakingTokenName === 'SAPPHIRE' && <StyledCardAccent />}
+      {pool.stakingTokenName === 'WITCHER' && <StyledCardAccent />}
       {isFinished && sousId !== 0 && <PoolFinishedSash />}
       <div style={{ padding: '24px' }}>
         <CardTitle isFinished={isFinished && sousId !== 0}>
@@ -217,7 +217,7 @@ const PoolCard: React.FC<HarvestProps> = ({ pool }) => {
             <span role="img" aria-label={stakingTokenName}>
             <div style={{ flex: 1 }}>
               {TranslateString(384, 'Your Stake')}:
-              <Image src={`/images/tokens/${stakingTokenName}.png`} width={20} height={20} alt="SAPPHIRE" />
+              <Image src={`/images/tokens/${stakingTokenName}.png`} width={20} height={20} alt="WITCHER" />
               
             </div>
             

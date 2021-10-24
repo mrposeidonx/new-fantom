@@ -37,7 +37,7 @@ const config: MenuEntry[] = [
     href: 'https://kek.tools/t/0xfa7d8c3CccC90c07c53feE45A7a333CEC40B441B',
   },
   {
-    label: 'Buy Sapphire',
+    label: 'Buy Witcher',
     icon: 'IfoIcon',
     href: 'https://spookyswap.finance/swap?outputCurrency=0xfa7d8c3CccC90c07c53feE45A7a333CEC40B441B',
   },

@@ -82,7 +82,7 @@ const FarmedStakingCard = () => {
             type: 'ERC20',
             options: {
               address: token,
-              symbol: 'SAPPHIRE',
+              symbol: 'WITCHER',
               decimals: '18',
               image: 'https://frostarbi.com/images/egg/9.png',
             },
@@ -102,7 +102,7 @@ const FarmedStakingCard = () => {
     <StyledFarmStakingCard>
       <CardBody>
         <Heading size="xl" mb="24px">
-          Add SAPPHIRE
+          Add WITCHER
         </Heading>
         <Flex flexDirection="column" mb="15px">
           <LinkExternal mb="20px" small href={`https://cchain.explorer.avax.network/token/${token}`}>
@@ -110,10 +110,10 @@ const FarmedStakingCard = () => {
           </LinkExternal>
         </Flex>
         <TokenImageWrapper>
-          <CardImage src="https://frostarbi.com/images/egg/9.png" alt="Farm SAPPHIRE logo" width={60} height={60} />
+          <CardImage src="https://frostarbi.com/images/egg/9.png" alt="Farm WITCHER logo" width={60} height={60} />
           <hr />
           <Button onClick={addWatchFrostToken} size="sm">
-            + Add SAPPHIRE to{' '}
+            + Add WITCHER to{' '}
             <img
               style={{ marginLeft: 8 }}
               width={16}

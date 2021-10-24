@@ -40,8 +40,8 @@ const CakeStats = () => {
   return (
     <StyledCakeStats>
       <CardBody>
-        <Heading size="xl" mb="24px">
-          {TranslateString(534, 'SAPPHIRE Stats')}
+        <Heading color="white" size="xl" mb="24px">
+          {TranslateString(534, 'WITCHER Stats')}
         </Heading>
         <Row>
           <Text fontSize="14px">{TranslateString(10005, 'Market Cap')}</Text>
@@ -64,18 +64,18 @@ const CakeStats = () => {
           10,000
         </Row>		
         <Row>
-          <Text fontSize="14px">{TranslateString(540, 'New SAPPHIRE/block')}</Text>
+          <Text fontSize="14px">{TranslateString(540, 'New WITCHER/block')}</Text>
           <Text bold fontSize="14px">{TranslateString(539, '0.001')}</Text>
         </Row>
       </CardBody>
 	  
-
+{/* 
   
         <a href="/pools">
     <img src="images/egg/32.png"
          alt="RugDoc Review" width="624" height="241" /></a>
          
-
+ */}
 
     </StyledCakeStats>
   )
